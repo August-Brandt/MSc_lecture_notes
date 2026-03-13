@@ -9,9 +9,9 @@ GROUP_URLS = [
     ],
     [
         "group b",
-        "<name>",
+        "catch(RuntimeException){goto f;}",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://164.92.186.201:3000",
         # Logging URL:
         "<logging_url>",
     ],
