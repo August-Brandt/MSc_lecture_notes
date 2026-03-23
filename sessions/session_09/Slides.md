@@ -22,7 +22,11 @@ After more than an hour, he gave up.
 https://www.cbsnews.com/news/healthcaregov-plagued-by-crashes-on-1st-day/
 
 
-How do we technically describe what happened? We say that the system had low **availability** — it failed to serve users due to insufficient **scalability** under load
+How do we technically describe what happened? We say that 
+
+> the system had low **availability** 
+> 
+It failed to serve users due to insufficient **scalability** under load.
 
 ## Availability 
 
