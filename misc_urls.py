@@ -9,25 +9,25 @@ GROUP_URLS = [
     ],
     [
         "group b",
-        "<name>",
+        "catch(RuntimeException){goto f;}",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://164.92.186.201:5001/grafana",
         # Logging URL:
         "<logging_url>",
     ],
     [
         "group c",
-        "<name>",
+        "group c",
         # Monitoring URL:
-        "<monitoring_url>",
+        "161.35.68.148:3000",
         # Logging URL:
         "<logging_url>",
     ],
     [
         "group d",
-        "<name>",
+        "Dense Dino Nuggets",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://64.226.82.73:3000",
         # Logging URL:
         "<logging_url>",
     ],
@@ -35,15 +35,15 @@ GROUP_URLS = [
         "group e",
         "Group E Dashboard Minitwit",
         # Monitoring URL:
-        "http://209.38.209.29:3000/public-dashboards/c13660544ba1472688314005db4ba3cc",
+        "http://209.38.209.29:3000/dashboards",
         # Logging URL:
         "<logging_url>",
     ],
     [
         "group f",
-        "<name>",
+        "if time > 16 {beer++;}",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://209.38.255.154:3000",
         # Logging URL:
         "<logging_url>",
     ],
@@ -65,9 +65,9 @@ GROUP_URLS = [
     ],
     [
         "group i",
-        "<name>",
+        "I Terroni",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://164.92.231.30:3000/",
         # Logging URL:
         "<logging_url>",
     ],
@@ -81,9 +81,9 @@ GROUP_URLS = [
     ],
     [
         "group k",
-        "<name>",
+        "Pat Myaz",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://209.38.114.224:3000/dashboards",
         # Logging URL:
         "<logging_url>",
     ],
@@ -115,7 +115,7 @@ GROUP_URLS = [
         "group n",
         "<name>",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://168.119.126.80:3001/public-dashboards/0815730723d84ddc8ce543f765e51bc6",
         # Logging URL:
         "<logging_url>",
     ],
@@ -129,9 +129,9 @@ GROUP_URLS = [
     ],
     [
         "group p",
-        "<name>",
+        "EastTOps",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://164.90.229.101:3000/dashboards",
         # Logging URL:
         "<logging_url>",
     ]
