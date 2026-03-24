@@ -8,12 +8,12 @@ Mircea Lungu, Associate Professor,<br>
 
 ## An embarrassing story
 
-The dream of Obama was to offer to the US healthcare insurance. Highly anticipated launch (e.g. the [healthcare.gov](https://www.cbsnews.com/news/healthcaregov-plagued-by-crashes-on-1st-day/) story) that resulted in the system experiencing a performance degradation 
+The dream of Obama was to offer to the US healthcare insurance. Highly anticipated, the launch of [healthcare.gov](https://www.cbsnews.com/news/healthcaregov-plagued-by-crashes-on-1st-day/) was a disaster: it resulted in the system experiencing a quick performance degradation to the point where the whole website was down soon after it's official launch. 
 
 ![360](images/healthcare_gov.png)
 
 
-Instead of new choices, the website told him to wait. wot
+Instead of new choices, the website told him to wait. 
 Attempts to log on with a CBS News producer's iPad failed too. 
 After more than an hour, he gave up.
 
