@@ -515,15 +515,6 @@ Also: you very likely have to take the Latest ID out of the container too — ot
 
 
 
-## You can go quite far and still not need orchestration
-
-- Thibault Duplessis on the architecture of Lichess 
-- StackOverflow does not use horizontal scaling ([podcast](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde), [tweet](images/StackOverflowInfraTweet.png))
-
-![400](images/StackOverflowInfraTweet.png)
-
-
-
 
 
 
@@ -617,6 +608,13 @@ Example:
 ```
 
 
+
+## You can go quite far and still not need orchestration
+
+- Thibault Duplessis on the architecture of Lichess
+- StackOverflow does not use horizontal scaling ([podcast](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde), [tweet](images/StackOverflowInfraTweet.png))
+
+![400](images/StackOverflowInfraTweet.png)
 
 # What Next?
 
