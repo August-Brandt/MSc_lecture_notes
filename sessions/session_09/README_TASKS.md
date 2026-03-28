@@ -1,8 +1,8 @@
 
-# Your turn now: Scale and Increase Availability of Your Infra!
+# Your turn now: increase the availability of your application!
 
 
-## 1) Add Scaling to your projects
+## 1) Add Scaling to Your Projects
 
 Do _either_ of the following:
 
@@ -17,8 +17,21 @@ Or:
 
 Implement an automatic update strategy in your build chain. Choose either rolling updates or blue-green. 
 
+## 3) Add an Availability View to your Monitoring Dashboard
 
-## 3) Software Maintenance
+Add at least the following to your Grafana dashboard:
+- **Service health** — is each service up or down (based on a health check endpoint)
+- **HTTP success rate** — percentage of non-5xx responses over time
+- **Response time** — P95 latency (the response time that 95% of requests are faster than) for at least your key API endpoints (e.g., the simulator endpoints)
+Show these over the last week and last month.
+
+**Bonus**: set up an **alert** (e.g., in Grafana or via a Slack webhook) that notifies you when availability drops below a threshold.
+
+
+
+
+
+## 4) Software Maintenance
 
 
 We are in software maintenance. That is, fix issues of your version of _ITU-MiniTwit_ **as soon as possible**. Let's say that as soon as possible means within 24 hours if possible, i.e., if it is not a super big issue that requires a big rewrite. 
